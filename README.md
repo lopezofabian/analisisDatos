@@ -51,7 +51,11 @@ python songs_per_year.py
 
 `songs_per_year.py`: Muestra el recuento de canciones por año de lanzamiento.
 
-![Ejemplo del archivo top_artistas.py: Muestra el top 10 de artistas mas escuchados en Spotify en 2023](C:\Users\DELL\OneDrive\Escritorio\Github\analisisDatos\images\top_artistas2023.png)
+
+##  Ejemplo 
+
+El archivo `top_artistas.py`: Muestra el top 10 de artistas mas populares en Spotify en 2023.
+![top_artistas](images/top_artistas2023.png)
 
 ## Datos
 
